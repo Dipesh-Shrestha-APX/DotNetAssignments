@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\PROJECT008\\DotnetAssignments\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A420CF00-3FB6-48FF-86BD-555F4B10CBFF}|ConsoleApp1.csproj|c:\\users\\hp\\desktop\\project008\\dotnetassignments\\consoleapp1\\1_printname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420CF00-3FB6-48FF-86BD-555F4B10CBFF}|ConsoleApp1.csproj|solutionrelative:1_printname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1_printName.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PROJECT008\\DotnetAssignments\\ConsoleApp1\\1_printName.cs",
+              "RelativeDocumentMoniker": "1_printName.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PROJECT008\\DotnetAssignments\\ConsoleApp1\\1_printName.cs",
+              "RelativeToolTip": "1_printName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:09:48.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
