@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\PROJECT008\\DotnetAssignments\\Lab4\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7890E45-9D9C-4ABC-B244-7A626E773F0E}|ConsoleApp1.csproj|c:\\users\\hp\\desktop\\project008\\dotnetassignments\\lab4\\consoleapp1\\inheritancecompletion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7890E45-9D9C-4ABC-B244-7A626E773F0E}|ConsoleApp1.csproj|solutionrelative:inheritancecompletion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7890E45-9D9C-4ABC-B244-7A626E773F0E}|ConsoleApp1.csproj|c:\\users\\hp\\desktop\\project008\\dotnetassignments\\lab4\\consoleapp1\\timezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7890E45-9D9C-4ABC-B244-7A626E773F0E}|ConsoleApp1.csproj|solutionrelative:timezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7890E45-9D9C-4ABC-B244-7A626E773F0E}|ConsoleApp1.csproj|c:\\users\\hp\\desktop\\project008\\dotnetassignments\\lab4\\consoleapp1\\functionoverloadingcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7890E45-9D9C-4ABC-B244-7A626E773F0E}|ConsoleApp1.csproj|solutionrelative:functionoverloadingcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7890E45-9D9C-4ABC-B244-7A626E773F0E}|ConsoleApp1.csproj|c:\\users\\hp\\desktop\\project008\\dotnetassignments\\lab4\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7890E45-9D9C-4ABC-B244-7A626E773F0E}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InheritanceCompletion.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PROJECT008\\DotnetAssignments\\Lab4\\ConsoleApp1\\InheritanceCompletion.cs",
+              "RelativeDocumentMoniker": "InheritanceCompletion.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PROJECT008\\DotnetAssignments\\Lab4\\ConsoleApp1\\InheritanceCompletion.cs",
+              "RelativeToolTip": "InheritanceCompletion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:47:23.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "functionOverloadingComplete.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PROJECT008\\DotnetAssignments\\Lab4\\ConsoleApp1\\functionOverloadingComplete.cs",
+              "RelativeDocumentMoniker": "functionOverloadingComplete.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PROJECT008\\DotnetAssignments\\Lab4\\ConsoleApp1\\functionOverloadingComplete.cs",
+              "RelativeToolTip": "functionOverloadingComplete.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswB8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:41:56.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "timeZone.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PROJECT008\\DotnetAssignments\\Lab4\\ConsoleApp1\\timeZone.cs",
+              "RelativeDocumentMoniker": "timeZone.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PROJECT008\\DotnetAssignments\\Lab4\\ConsoleApp1\\timeZone.cs",
+              "RelativeToolTip": "timeZone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:40:46.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PROJECT008\\DotnetAssignments\\Lab4\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PROJECT008\\DotnetAssignments\\Lab4\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:40:00.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
