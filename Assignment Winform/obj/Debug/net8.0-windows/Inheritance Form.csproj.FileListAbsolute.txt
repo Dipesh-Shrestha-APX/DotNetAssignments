@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\PROJECT008\dotnet-lab\lab3 -Inheritance-Form\obj\Debug\net8.0-windows\Inheritance Form.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\PROJECT008\dotnet-lab\lab3 -Inheritance-Form\obj\Debug\net8.0-windows\Inheritance_Form.Calculator.resources
+C:\Users\hp\Desktop\PROJECT008\dotnet-lab\lab3 -Inheritance-Form\obj\Debug\net8.0-windows\Inheritance_Form.Form1.resources
+C:\Users\hp\Desktop\PROJECT008\dotnet-lab\lab3 -Inheritance-Form\obj\Debug\net8.0-windows\Inheritance_Form.Login.resources
+C:\Users\hp\Desktop\PROJECT008\dotnet-lab\lab3 -Inheritance-Form\obj\Debug\net8.0-windows\Inheritance_Form.Reg.resources
+C:\Users\hp\Desktop\PROJECT008\dotnet-lab\lab3 -Inheritance-Form\obj\Debug\net8.0-windows\Inheritance_Form.Register.resources
+C:\Users\hp\Desktop\PROJECT008\dotnet-lab\lab3 -Inheritance-Form\obj\Debug\net8.0-windows\Inheritance_Form.WelcomeForm.resources
+C:\Users\hp\Desktop\PROJECT008\dotnet-lab\lab3 -Inheritance-Form\obj\Debug\net8.0-windows\Inheritance Form.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\PROJECT008\dotnet-lab\lab3 -Inheritance-Form\obj\Debug\net8.0-windows\Inheritance Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\PROJECT008\dotnet-lab\lab3 -Inheritance-Form\obj\Debug\net8.0-windows\Inheritance Form.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\PROJECT008\dotnet-lab\lab3 -Inheritance-Form\obj\Debug\net8.0-windows\Inheritance Form.AssemblyInfo.cs
+C:\Users\hp\Desktop\PROJECT008\dotnet-lab\lab3 -Inheritance-Form\obj\Debug\net8.0-windows\Inheritance Form.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PROJECT008\dotnet-lab\lab3 -Inheritance-Form\obj\Debug\net8.0-windows\Inheritance Form.sourcelink.json
